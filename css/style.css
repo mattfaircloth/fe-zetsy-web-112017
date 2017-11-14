@@ -28,3 +28,8 @@ body {
 p { /* select all <p> */
   font: 0.8 'Libre Baskerville', serif; /* 16px, ?pt, 100%, 1em */
 }
+
+h2 {
+	font: bold 1.2em 'Libre Baskerville', serif;
+  color: rgb(152, 173, 166);
+}
