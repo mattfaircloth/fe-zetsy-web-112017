@@ -27,6 +27,8 @@ padding-bottom: 10px;
     font-weight: normal;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
+		color: rgb(152,173,166);
+    text-decoration: none;
 }
 
 p {
