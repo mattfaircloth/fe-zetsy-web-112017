@@ -37,6 +37,10 @@ a {
     background-origin: initial;
     background-clip: initial;
     background-color: transparent;
+		-webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
 }
 
 a:hover {
