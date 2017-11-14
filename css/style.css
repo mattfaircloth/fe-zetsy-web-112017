@@ -27,5 +27,4 @@ body {
 
 p { /* select all <p> */
   font: 0.8 'Libre Baskerville', serif; /* 16px, ?pt, 100%, 1em */
-  line-height: 1.5em;
 }
