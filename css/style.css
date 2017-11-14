@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 
 #logo { /* select elements with id="logo" */
-padding-bottom: 3px;
+padding-bottom: 0px;
     margin: 0 0 5px;
     font-size: 3em;
     font-weight: normal;
