@@ -25,7 +25,7 @@ header a{
 	text-decoration: none;
 }
 
-* a {
+#press a{
 	background: transparent;
     background-image: initial;
     background-position-x: initial;
@@ -43,7 +43,7 @@ header a{
   transition: background-color 2s ease-out;
 }
 
-* a:hover {
+#press a:hover {
     color: red;
     cursor: pointer;
     text-decoration: underline;
