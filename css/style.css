@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 
 
- a{
+ .wrapper a{
 	background: transparent;
     background-image: initial;
     background-position-x: initial;
@@ -39,7 +39,7 @@ body {
   transition: background-color 2s ease-out;
 }
 
-a:hover {
+.wrapper a:hover {
     color: red;
     cursor: auto;
     text-decoration: underline;
