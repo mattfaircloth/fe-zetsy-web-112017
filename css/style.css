@@ -26,7 +26,7 @@ header a{
 }
 
 a {
-	background: red;
+	background: transparent;
     background-image: initial;
     background-position-x: initial;
     background-position-y: initial;
@@ -41,7 +41,7 @@ a {
 
 a:-webkit-any-link {
     color: -webkit-link;
-    cursor: auto;
+    cursor: pointer;
     text-decoration: underline;
 }
 
