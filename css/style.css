@@ -44,8 +44,8 @@ a {
 }
 
 a:hover {
-    color: red;
-    cursor: auto;
+    color: green;
+    cursor: pointer;
     text-decoration: underline;
 }
 
