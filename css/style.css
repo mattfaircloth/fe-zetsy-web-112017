@@ -26,7 +26,7 @@ header a{
 }
 
 a {
-	background: transparent;
+	background: red;
     background-image: initial;
     background-position-x: initial;
     background-position-y: initial;
