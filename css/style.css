@@ -39,11 +39,13 @@ a {
     background-color: transparent;
 }
 
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
+a:hover {
+    color: red;
+    cursor: auto;
     text-decoration: underline;
 }
+
+
 
 
 
