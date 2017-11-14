@@ -20,7 +20,7 @@ body {
 
 /* Write all remaining styles here */
 
-#logo { /* select elements with id="logo" */
+h1 { /* select elements with id="logo" */
 padding-bottom: 0px;
     margin: 0 0 5px;
     font-size: 3em;
