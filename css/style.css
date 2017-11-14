@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 
 #logo { /* select elements with id="logo" */
- font: 2.6em 'Libre Baskerville', serif;
+ font: bold 2.2em 'Libre Baskerville', serif;
  color: rgb(152, 173, 166);
 }
 
