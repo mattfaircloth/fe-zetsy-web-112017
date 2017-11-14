@@ -23,7 +23,7 @@ body {
 h1 { /* select elements with id="logo" */
 padding-bottom: 0px;
     margin: 0 0 5px;
-    font-size: 3em;
+    font-size: 5em;
     font-weight: normal;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
