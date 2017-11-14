@@ -24,7 +24,7 @@ h1 { /* select elements with id="logo" */
 padding-bottom: 0px;
     margin: 0 0 5px;
     font-size: 5em;
-    font-weight: normal;
+    font-weight: bold;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 		color: rgb(152,173,166);
