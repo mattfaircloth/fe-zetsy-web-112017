@@ -20,6 +20,14 @@ body {
 
 /* Write all remaining styles here */
 
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+a {
+	background: transparent;
+}
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: auto;
@@ -33,10 +41,7 @@ padding-bottom: 10px;
     font-weight: bold;
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
-		color: rgb(152,173,166);
-    text-decoration: none;
 		display: block;
-		background: transparent;
 }
 
 p {
