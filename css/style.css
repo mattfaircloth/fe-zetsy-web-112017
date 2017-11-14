@@ -29,7 +29,8 @@ padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
 		color: rgb(152,173,166);
     text-decoration: none;
-		cursor: auto;
+		cursor: auto
+		display: block;
 }
 
 p {
