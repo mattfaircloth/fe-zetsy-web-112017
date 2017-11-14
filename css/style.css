@@ -27,12 +27,25 @@ header a{
 
 a {
 	background: transparent;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
 }
+
 a:-webkit-any-link {
     color: -webkit-link;
     cursor: auto;
     text-decoration: underline;
 }
+
+
 
 h1 { /* select elements with id="logo" */
 padding-bottom: 10px;
