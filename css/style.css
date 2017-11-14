@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-    color: green;
+    color: red;
     cursor: pointer;
     text-decoration: underline;
 }
