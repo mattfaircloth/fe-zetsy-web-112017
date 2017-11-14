@@ -29,7 +29,7 @@ a {
 	background: transparent;
 }
 a:-webkit-any-link {
-    color: red;
+    color: -webkit-link;
     cursor: auto;
     text-decoration: underline;
 }
