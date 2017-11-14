@@ -21,8 +21,8 @@ body {
 /* Write all remaining styles here */
 
 #logo { /* select elements with id="logo" */
- font-family: 'Libre Baskerville', serif;
- color: rgb(152, 173, 166)
+ font: bold 2.6em 'Libre Baskerville', serif;
+ color: rgb(152, 173, 166);
 }
 
 p { /* select all <p> */
