@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 /*////////// Global Styles //////////*/
 
@@ -18,3 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#logo { /* select elements with id="logo" */
+ font-family: 'Libre Baskerville', serif;
+}
+
+p { /* select all <p> */
+  font-size: 1em; /* 16px, ?pt, 100%, 1em */
+  line-height: 1.5em;
+}
